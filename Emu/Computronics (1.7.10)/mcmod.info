@@ -1,0 +1,17 @@
+[
+{
+  "modid": "computronics",
+  "name": "Computronics",
+  "description": "A ComputerCraft/OpenComputers addon mod.",
+  "version": "1.7.10-1.6.6",
+  "credits": "",
+  "logoFile": "",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [ "asiekierka", "Techokami", "Vexatos" ],
+  "parent":"",
+  "screenshots": [],
+  "dependencies": []
+}
+]
