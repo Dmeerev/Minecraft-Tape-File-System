@@ -1,5 +1,5 @@
 # Minecraft Tape File System
- File system for Computronics streamer.  [FILE VER 0.2.4 (pre Alpha)
+ File system for Computronics streamer.  [FILE VER 0.2.4 (pre Alpha)]
  
  Minecraft Tape File System 1 (MTFS, MTFS-1)
 
@@ -70,13 +70,11 @@
 
 ## Глава 6 - стример из куска VHS'а и палок.
 
-
 ## {глава - ? применение и реализация MTFS на компакт кассете в реальности? (не знаю зачем это вам вообще надо ,упорина надо меньше принимать.)}  
 
 ***дальнейшее развитие MTFS:***  
 
-
-- [ ] MTFS-1 : файловая система на "кассетах" из мода Computronics(в процессе)  
+- [ ] \(в процессе) MTFS-1 : файловая система на "кассетах" из мода Computronics
 - [ ] Open Computers Note Block Music (OCNBM) или подобие MIDI.
 - [ ] создание файла цифрового аудио (.dmm) и новый чисто музыкальный формат DMM! (Digital Minecraft Music)
 - [ ] MTFS-2 : поддержка сжатия и создание массивов.
@@ -99,4 +97,4 @@
 
 (предположительный конец развития NGRTFS-V, NGRTFS и RTFS, полировка кода до идеала.)
 
-- [ ] [?] MFTS-5? 
+- [ ] \(?) MFTS-5? 
